@@ -1,14 +1,14 @@
-Microsoft Windows [°æ±¾ 6.1.7600]
-°æÈ¨ËùÓÐ (c) 2009 Microsoft Corporation¡£±£ÁôËùÓÐÈ¨Àû¡£
+Microsoft Windows [ï¿½æ±¾ 6.1.7600]
+ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½ (c) 2009 Microsoft Corporationï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½È¨ï¿½ï¿½ï¿½ï¿½
 
 C:\Windows\system32>net stop mysql0815
-MySQL0815 ·þÎñÕýÔÚÍ£Ö¹.
-MySQL0815 ·þÎñÒÑ³É¹¦Í£Ö¹¡£
+MySQL0815 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í£Ö¹.
+MySQL0815 ï¿½ï¿½ï¿½ï¿½ï¿½Ñ³É¹ï¿½Í£Ö¹ï¿½ï¿½
 
 
 C:\Windows\system32>net start mysql0815
-MySQL0815 ·þÎñÕýÔÚÆô¶¯ .
-MySQL0815 ·þÎñÒÑ¾­Æô¶¯³É¹¦¡£
+MySQL0815 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ .
+MySQL0815 ï¿½ï¿½ï¿½ï¿½ï¿½Ñ¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½É¹ï¿½ï¿½ï¿½
 
 
 C:\Windows\system32>mysql -h localhost -P 3306 -u root -p
