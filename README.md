@@ -40,3 +40,7 @@
 - [存储过程](https://github.com/vnues/mysql/blob/master/code/day6/存储过程.sql)
 - [流程控制经典案例讲解](https://github.com/vnues/mysql/blob/master/code/day6/流程控制经典案例讲解.sql)
 - [流程控制结构](https://github.com/vnues/mysql/blob/master/code/day6/流程控制结构.sql)
+
+## 杂七杂八
+
+- [note](https://github.com/vnues/mysql/blob/master/note.sql)
